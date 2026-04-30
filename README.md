@@ -30,7 +30,7 @@ It showcases my skills, projects, and contact information in a clean and interac
 
 ## 🌐 Live Demo
 
-🔗 https://priyacodes-123.github.io/portfolio/
+🔗  https://priyacodes-123.github.io/FUTURE_FS_01/
 
 ---
 
